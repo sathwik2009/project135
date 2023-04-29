@@ -1,0 +1,47 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.heading h2
+{
+    font-size: 15px;
+    color: black;
+}
+
+label
+{
+    font-size: 30px;
+}
+
+input
+{
+    width: 50%;
+    height: 35px;
+    font-size: 30px;
+}
+
+#status_model, #status_object
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 30px;
+    border: solid;
+}
+
+#start_model
+{
+    font-size: 30px;
+}
